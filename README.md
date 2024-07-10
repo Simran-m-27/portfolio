@@ -1,3 +1,4 @@
+# [Profile Picture]("C:\Users\ASUS\Downloads\Simran picture-modified.png") Simran Mahendra
 # Summary
 Detail-oriented Analyst with 1 year of experience, proficient in Python, Excel, PPT, and financial model building and formatting. Successfully completed intensive training in these areas, demonstrating the ability to contribute effectively to the analytical team at TresVista.
 
@@ -8,7 +9,7 @@ Christ University • Bangalore • 2025
 - Bcom Honors
 Minor in Finance • Christ University • Bangalore • 2022 • 75.73%
 
-= XII
+- XII
 Minor in Commerce • CBSE, Delhi Public School • Bangalore • 2019 • 94.25%
 
 - X
